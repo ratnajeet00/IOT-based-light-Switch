@@ -4,9 +4,8 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: {IOT-based-light-SwitchProject}
 
-Describe your project
 
 == Step 1: Installation
 Please describe the steps to install this project.
