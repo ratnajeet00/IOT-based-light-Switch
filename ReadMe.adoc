@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {IOT-based-light-SwitchProject}
+= Project: IOT based light Switch
 
 
 == Step 1: Installation
